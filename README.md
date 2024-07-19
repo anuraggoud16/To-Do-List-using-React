@@ -1,3 +1,22 @@
+React To-Do List
+This is a simple To-Do List application built using React.js.
+
+Features:  ✨
+Add new tasks ✏️
+Mark tasks as completed ✅
+User-friendly interface
+
+Getting Started:
+Clone the repository: git clone https://github.com/anuraggoud16/To-Do-List-using-React.git
+Install dependencies: npm install
+Start the development server: npm start
+Feel free to contribute and improve this project!  [Pull Request emoji]
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
